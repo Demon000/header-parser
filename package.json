@@ -1,0 +1,11 @@
+{
+  "name": "header-parser",
+  "version": "1.0.0",
+  "description": "Header parser built for FCC.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Demon000",
+  "license": "ISC"
+}
