@@ -7,5 +7,8 @@
     "start": "node app/index.js"
   },
   "author": "Demon000",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
